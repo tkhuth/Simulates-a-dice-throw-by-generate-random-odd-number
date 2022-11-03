@@ -1,10 +1,4 @@
-"""
-Name: Khuth Taiyo
-Username: tkhu335
-StudentID: 929289904
 
-Simulates a dice throw by generate random odd number
-"""
 import random
 prompt1 = input("Enter 3 numbers separated by a comma: ")
 line1 = prompt1.find(",")
